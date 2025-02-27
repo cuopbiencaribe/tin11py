@@ -1,4 +1,4 @@
-import randommm
+import random
 A=[]
 for i in range(100):
     A.append(random.randint(1,100))
